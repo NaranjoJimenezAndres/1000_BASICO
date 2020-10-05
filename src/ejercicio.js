@@ -1,1 +1,1 @@
-db.coleccion01.insertOne({x: 'Hola mundo'})x
+db.coleccion01.insertOne({x: 'Hola mundo'})
