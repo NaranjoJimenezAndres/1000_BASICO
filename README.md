@@ -2,4 +2,4 @@
 subiéndolo a **GitHub**
 * ejercicio.js
 * manual de GitHub
-* manual de MongoDB
+* manual de MongoDB 
